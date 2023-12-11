@@ -1,0 +1,15 @@
+# hidden files
+.idea
+.gradle/
+.vscode/
+*.iml
+
+# output folders
+bin/
+build/
+lib/
+
+# files ignored by extension
+*.class
+*.DS_Store
+deleteme/
